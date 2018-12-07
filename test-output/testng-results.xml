@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34570" started-at="2018-12-07T16:40:24Z" finished-at="2018-12-07T16:40:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34570" started-at="2018-12-07T16:40:24Z" finished-at="2018-12-07T16:40:58Z">
+      <class name="com.click.Plivo">
+        <test-method status="PASS" signature="Assignment()[pri:0, instance:com.click.Plivo@224edc67]" name="Assignment" duration-ms="34558" started-at="2018-12-07T22:10:24Z" finished-at="2018-12-07T22:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignment -->
+      </class> <!-- com.click.Plivo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
