@@ -22,7 +22,7 @@ public class Plivo {
 	public void start() {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
-
+		driver.manage().window().maximize();
 	}
 
 	@Test
